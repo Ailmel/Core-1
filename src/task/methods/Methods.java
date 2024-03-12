@@ -7,7 +7,7 @@ public class Methods {
         // Ожидаемый результат hello System.out.println(string);
         // Вызовы ваших методов
 
-    }
+    }//Тест1
 
     // Метод принимающий строку и преобразующий ее в нижний регистр
     public static String getString(String example) {
@@ -16,8 +16,10 @@ public class Methods {
 
 // Реализуйте функциональность согласно описанию
 
-// TODO: Создайте метод который вернет сумму двух чисел
-
+    // TODO: Создайте метод который вернет сумму двух чисел
+    public int sumInt(int value, int value2) {
+        return value + value2;
+    }
 
 // TODO: Создайте метод который вернет сумму двух переданных строк
 
